@@ -1,4 +1,4 @@
-# MATH 455 Fall 2022
+# MATH 455 Fall 2023
 
 ## syllabus and outline
 
