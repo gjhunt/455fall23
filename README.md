@@ -11,7 +11,7 @@ No. | date | topics | suggested problems (SP) | notes | code | videos | quiz pro
 1|R 8-31 | introduction |  | [notes](lns/lec1.pdf)|  | [vid](https://youtu.be/tZxDSfLuPwE?feature=shared)|  | 
 2|T 9-5 | statistical learning | [SP1](sp/SP1_questions.pdf) | [notes](lns/lec2.pdf)| [.ipynb](code/lab1_introduction.ipynb) | [vid](https://youtu.be/GVfoI83qzag) | [QP 1](qp/qp1.pdf) due Sept 12 | 
 3|R 9-7 | linear regression | | [notes](lns/lec3.pdf)|  | [vid](https://youtu.be/CrES1RC5mro) | | 
-4|T 9-12 | K-Nearest Neighbors | [SP2](sp/SP2_questions.pdf) | [notes](lns/lec4.pdf)|  [.ipynb](code/lab3_knn.ipynb) | [vid]() | [QP 2](qp/qp2.pdf) due Sept 19| 
+4|T 9-12 | more regression and KNN | [SP2](sp/SP2_questions.pdf) | [notes](lns/lec4.pdf)|  [.ipynb](code/lab2_regression.ipynb) | [vid](https://youtu.be/Ntd0JFc-0XY) | [QP 2](qp/qp2.pdf) due Sept 19| 
 5|R 9-14 | evaluation | --- | [notes](lns/lec5.pdf) | [.ipynb](code/lab3_knn.ipynb) | [vid]() | [QP 3](qp/qp3.pdf) due Sept 21 | 
 6|T 9-19 | more evaluation | [SP3](sp/SP3_questions.pdf) | [notes](lns/lec6.pdf) | [.ipynb](code/lab4_evaluation.ipynb) |[vid]()| --- |
 7|R 9-21 | even more evaluation | | [notes](lns/lec7.pdf)|  [.ipynb](code/lab5_more_eval.ipynb)  | [vid]()|[QP 4](qp/qp4.pdf) due Sept 28 | 
