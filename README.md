@@ -12,8 +12,8 @@ No. | date | topics | suggested problems (SP) | notes | code | videos | quiz pro
 2|T 9-5 | statistical learning | [SP1](sp/SP1_questions.pdf) | [notes](lns/lec2.pdf)| [.ipynb](code/lab1_introduction.ipynb) | [vid](https://youtu.be/GVfoI83qzag) | [QP 1](qp/qp1.pdf) due Sept 12 | 
 3|R 9-7 | linear regression | | [notes](lns/lec3.pdf)|  | [vid](https://youtu.be/CrES1RC5mro) | | 
 4|T 9-12 | more regression and KNN | [SP2](sp/SP2_questions.pdf) | [notes](lns/lec4.pdf)|  [.ipynb](code/lab2_regression.ipynb) | [vid](https://youtu.be/Ntd0JFc-0XY) | [QP 2](qp/qp2.pdf) due Sept 19| 
-5|R 9-14 | evaluation | --- | [notes](lns/lec5.pdf) | [.ipynb](code/lab3_knn.ipynb) | [vid]() | [QP 3](qp/qp3.pdf) due Sept 21 | 
-6|T 9-19 | more evaluation | [SP3](sp/SP3_questions.pdf) | [notes](lns/lec6.pdf) | [.ipynb](code/lab4_evaluation.ipynb) |[vid]()| --- |
+5|R 9-14 | evaluation | --- | [notes](lns/lec5.pdf) | [.ipynb](code/lab3_knn.ipynb) | [vid](https://youtu.be/4RnNiMh5UdI) |  | 
+6|T 9-19 | more evaluation | [SP3](sp/SP3_questions.pdf) | [notes](lns/lec6.pdf) | [.ipynb](code/lab4_evaluation.ipynb) |[vid]()| [QP 3](qp/qp3.pdf) due Sept 26 |
 7|R 9-21 | even more evaluation | | [notes](lns/lec7.pdf)|  [.ipynb](code/lab5_more_eval.ipynb)  | [vid]()|[QP 4](qp/qp4.pdf) due Sept 28 | 
 8|T 9-26 | risk minimization |  --- | [notes](lns/lec8.pdf)|  | [vid]()| --- |
 9|R 9-28 | KNN and Linear Classifiers | [SP4](sp/SP4_questions.pdf)| [notes](lns/lec9.pdf)| [.ipynb](code/lab6_knn_class.ipynb) | [vid]()| [QP 5](qp/qp5.pdf) due Oct 5 | 
