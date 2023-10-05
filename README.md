@@ -18,7 +18,7 @@ No. | date | topics | suggested problems (SP) | notes | code | videos | quiz pro
 8|T 9-26 | risk minimization |  --- | [notes](lns/lec8.pdf)|  | [vid](https://youtu.be/eqzX-Yr3xrA)| [QP 4](qp/qp4.pdf) due Oct 3 |
 9|R 9-28 | KNN and Linear Classifiers | [SP4](sp/SP4_questions.pdf)| [notes](lns/lec9.pdf)| [.ipynb](code/lab5_knn_class.ipynb) | [vid](https://youtu.be/5qPIfckLLj8)|  | 
 10 |T 10-3 | LDA and QDA | --- | [notes](lns/lec10.pdf)| [.ipynb](code/lab6_lda.ipynb) [.ipynb](code/lab7_qda.ipynb) | [vid](https://youtu.be/7DwcXraXVF4)| [QP 5](qp/qp5.pdf) due Oct 10 | 
-11|R 10-5 | Logistic Regression | [SP5](sp/SP5_questions.pdf) | [notes](lns/lec11.pdf)| [.ipynb](code/lab8_lda.ipynb) [.ipynb](code/lab9_qda.ipynb) | [vid]() |   | 
+11|R 10-5 | Logistic Regression | [SP5](sp/SP5_questions.pdf) | [notes](lns/lec11.pdf)| [.ipynb](code/lab8_logistic.ipynb) | [vid](https://youtu.be/-e_JkXdfpLo) |   | 
 12|T 10-10 | Variable Selection |  | [notes](lns/lec12.pdf)| [.ipynb](code/lab10_masking.ipynb) [.ipynb](code/lab11_logistic.ipynb)  | [vid]()| [QP 6](qp/qp6.pdf) due Oct 16 | 
 . |R 10-12 | fall break | 
 13 | T 10-17 | variable selection | --- | [notes](lns/lec13.pdf)| | [vid]()| --- | 
