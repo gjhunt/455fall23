@@ -19,7 +19,7 @@ No. | date | topics | suggested problems (SP) | notes | code | videos | quiz pro
 9|R 9-28 | KNN and Linear Classifiers | [SP4](sp/SP4_questions.pdf)| [notes](lns/lec9.pdf)| [.ipynb](code/lab5_knn_class.ipynb) | [vid](https://youtu.be/5qPIfckLLj8)|  | 
 10 |T 10-3 | LDA and QDA | --- | [notes](lns/lec10.pdf)| [.ipynb](code/lab6_lda.ipynb) [.ipynb](code/lab7_qda.ipynb) | [vid](https://youtu.be/7DwcXraXVF4)| [QP 5](qp/qp5.pdf) due Oct 10 | 
 11|R 10-5 | Logistic Regression | [SP5](sp/SP5_questions.pdf) | [notes](lns/lec11.pdf)| [.ipynb](code/lab8_logistic.ipynb) | [vid](https://youtu.be/-e_JkXdfpLo) |   | 
-12|T 10-10 | Variable Selection |  | [notes](lns/lec12.pdf)| [.ipynb](code/lab10_masking.ipynb) [.ipynb](code/lab11_logistic.ipynb)  | [vid]()| [QP 6](qp/qp6.pdf) due Oct 16 | 
+12|T 10-10 | Variable Selection |  | [notes](lns/lec12.pdf)| [.ipynb](code/lab9_selection.ipynb)  | [vid](https://youtu.be/lIWVaTzeTlA)| [QP 6](qp/qp6.pdf) due Oct 17 | 
 . |R 10-12 | fall break | 
 13 | T 10-17 | variable selection | --- | [notes](lns/lec13.pdf)| | [vid]()| --- | 
 .| R 10-19 | midterm | 
