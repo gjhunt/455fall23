@@ -22,7 +22,7 @@ No. | date | topics | suggested problems (SP) | notes | code | videos | quiz pro
 12|T 10-10 | variable Selection |  | [notes](lns/lec12.pdf)| [.ipynb](code/lab9_selection.ipynb)  | [vid](https://youtu.be/lIWVaTzeTlA)| [QP 6](qp/qp6.pdf) due Oct 17 | 
 . |R 10-12 | fall break | 
 13 | T 10-17 | ridge regression |  | [notes](lns/lec13.pdf)|   [ipynb](code/lab10_ridge.ipynb)| [vid](https://youtu.be/RNjRw5-Mxe0)| --- | 
-.| R 10-19 | midterm | ||||[QP7](qp/qp7.pdf) due Oct 31
+.| R 10-19 | midterm | ||||[QP7](qp/qp7.pdf) due Oct 26
 14|T 10-24 | ridge regression | [SP6](sp/SP6_questions.pdf) | [notes](lns/lec14.pdf)| [.ipynb](code/lab12_var_sel.ipynb) | [vid]() |  | 
 15|R 10-26 | more ridge | --- | [notes](lns/lec15.pdf)| [.ipynb](code/lab13_ridge.ipynb)  | [vid]()| ---  | 
 16|T 10-31 | LASSO | -- | [notes](lns/lec16.pdf) | | [vid]()|  | 
