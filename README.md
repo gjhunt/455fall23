@@ -22,21 +22,21 @@ No. | date | topics | suggested problems (SP) | notes | code | videos | quiz pro
 12|T 10-10 | variable Selection |  | [notes](lns/lec12.pdf)| [.ipynb](code/lab9_selection.ipynb)  | [vid](https://youtu.be/lIWVaTzeTlA)| [QP 6](qp/qp6.pdf) due Oct 17 | 
 . |R 10-12 | fall break | 
 13 | T 10-17 | ridge regression |  | [notes](lns/lec13.pdf)|   [ipynb](code/lab10_ridge.ipynb)| [vid](https://youtu.be/RNjRw5-Mxe0)| --- | 
-.| R 10-19 | midterm | ||||[QP7](qp/qp7.pdf) due Oct 26
-14|T 10-24 | ridge regression | [SP6](sp/SP6_questions.pdf) | [notes](lns/lec14.pdf)| [.ipynb](code/lab12_var_sel.ipynb) | [vid]() |  | 
-15|R 10-26 | more ridge | --- | [notes](lns/lec15.pdf)| [.ipynb](code/lab13_ridge.ipynb)  | [vid]()| ---  | 
-16|T 10-31 | LASSO | -- | [notes](lns/lec16.pdf) | | [vid]()|  | 
-17 |R 11-2 | PCA | --- | [notes](lns/lec17.pdf) | [.ipynb](code/lab14_lasso.ipynb)  | [vid]() |  |
+.| R 10-19 | midterm | ||||
+14|T 10-24 | LASSO | [SP6](sp/SP6_questions.pdf) | [notes](lns/lec14.pdf)| [.ipynb](code/lab12_var_sel.ipynb) | [vid]() | [QP7](qp/qp7.pdf) due Oct 31 | 
+15|R 10-26 | unsupervised learning and PCA | --- | [notes](lns/lec15.pdf)| [.ipynb](code/lab13_ridge.ipynb)  | [vid]()| ---  | 
+16|T 10-31 | more PCA | -- | [notes](lns/lec16.pdf) | | [vid]()| [QP8](qp/qp8.pdf) due Nov 9 | 
+17 |R 11-2 | PCR | --- | [notes](lns/lec17.pdf) | [.ipynb](code/lab14_lasso.ipynb)  | [vid]() |  |
 . | T 11-7 | Election Day (no classes) | 
-18|R 11-9 | more PCA | [SP7](sp/SP7_questions.pdf) | [notes](lns/lec18.pdf)| [.ipynb](code/lab15_pca.ipynb)  | [vid]()| [QP8](qp/qp8.pdf) due Nov 16 | 
-19|T 11-14 | PCR | --- | [notes](lns/lec19.pdf)| [.ipynb](code/lab16_pcr.ipynb) | [vid]()|  --- | 
-20|R 11-16 | K-means | [SP8](sp/SP8_questions.pdf) | [notes](lns/lec20.pdf)| [.ipynb](code/lab17_kmeans.ipynb) | [vid]() | [QP9](qp/qp9.pdf) due Nov 28 | 
-21|T 11-21 | hierarchical clustering | --- | [notes](lns/lec21.pdf)| [.ipynb](code/lab18_hierarchical.ipynb) |[vid]() | ---  | 
+18|R 11-9 | k-means | [SP7](sp/SP7_questions.pdf) | [notes](lns/lec18.pdf)| [.ipynb](code/lab15_pca.ipynb)  | [vid]()| [QP9](qp/qp9.pdf) due Nov 16 | 
+19|T 11-14 | hierarchical clustering | --- | [notes](lns/lec19.pdf)| [.ipynb](code/lab16_pcr.ipynb) | [vid]()|  --- | 
+20|R 11-16 | trees | [SP8](sp/SP8_questions.pdf) | [notes](lns/lec20.pdf)| [.ipynb](code/lab17_kmeans.ipynb) | [vid]() |  | 
+21|T 11-21 | random forests | --- | [notes](lns/lec21.pdf)| [.ipynb](code/lab18_hierarchical.ipynb) |[vid]() | [QP10](qp/qp10.pdf) due Dec 5  | 
 . | R 11-23 | Thanksgiving | 
-22|T 11-28 | trees | --- | [notes](lns/lec22.pdf)| [.ipynb](code/lab19_trees.ipynb)  | [vid]() |  | 
-23|R 11-30 | RFs | --- |[notes](lns/lec23.pdf)| [.ipynb](code/lab20_rf.ipynb) | [vid]() | [QP10](qp/qp10.pdf) due Dec 7 | 
-24|T 12-5 | boosting | --- | [notes](lns/lec24.pdf)| |  [vid]() | --- | 
-25|T 12-7 | kernel regression | --- | [notes](lns/lec25.pdf)|[.ipynb](code/lab22_kr.ipynb) |  [vid]() | --- | 
+22|T 11-28 | boosting | --- | [notes](lns/lec22.pdf)| [.ipynb](code/lab19_trees.ipynb)  | [vid]() |  | 
+23|R 11-30 | more boosting | --- |[notes](lns/lec23.pdf)| [.ipynb](code/lab20_rf.ipynb) | [vid]() |  | 
+24|T 12-5 | NNs | --- | [notes](lns/lec24.pdf)| |  [vid]() | --- | 
+25|T 12-R | more NNs | --- | [notes](lns/lec25.pdf)|[.ipynb](code/lab22_kr.ipynb) |  [vid]() | --- | 
 
 
 
