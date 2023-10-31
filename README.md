@@ -25,7 +25,7 @@ No. | date | topics | suggested problems (SP) | notes | code | videos | quiz pro
 .| R 10-19 | midterm | ||||
 14|T 10-24 | LASSO | [SP6](sp/SP6_questions.pdf) | [notes](lns/lec14.pdf)| [.ipynb](code/lab11_lasso.ipynb) | [vid](https://youtu.be/2vgkzxvVgTc) | [QP7](qp/qp7.pdf) due Oct 31 | 
 15|R 10-26 | unsupervised learning and PCA | --- | [notes](lns/lec15.pdf)| [.ipynb](code/lab12_loss.ipynb) [.ipynb](code/lab13_glmnet.ipynb) [.ipynb](code/lab14_pcaviz.ipynb)  | [vid](https://youtu.be/uRSlQzp7GbI)| ---  | 
-16|T 10-31 | more PCA | -- | [notes](lns/lec16.pdf) | | [vid]()| [QP8](qp/qp8.pdf) due Nov 9 | 
+16|T 10-31 | more PCA | -- | [notes](lns/lec16.pdf) | [.ipynb](code/lab15_pca.ipynb) | [vid](https://youtu.be/efAwbKnQN0E)| [QP8](qp/qp8.pdf) due Nov 9 | 
 17 |R 11-2 | PCR | --- | [notes](lns/lec17.pdf) | [.ipynb](code/lab14_lasso.ipynb)  | [vid]() |  |
 . | T 11-7 | Election Day (no classes) | 
 18|R 11-9 | k-means | [SP7](sp/SP7_questions.pdf) | [notes](lns/lec18.pdf)| [.ipynb](code/lab15_pca.ipynb)  | [vid]()| [QP9](qp/qp9.pdf) due Nov 16 | 
