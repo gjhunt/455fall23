@@ -3,7 +3,7 @@
 ## syllabus and outline
 
 - [syllabus](docs/syllabus.md)
-- 
+- [project](docs/project.pdf)
 ## lecture notes and videos
 
 No. | date | topics | suggested problems (SP) | notes | code | videos | quiz problem (QP) | 
