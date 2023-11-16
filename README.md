@@ -16,10 +16,10 @@ No. | date | topics | suggested problems (SP) | notes | code | videos | quiz pro
 6|T 9-19 | more evaluation | [SP3](sp/SP3_questions.pdf) | [notes](lns/lec6.pdf) | [.ipynb](code/lab4_evaluation.ipynb) |[vid](https://youtu.be/HUF1YtJzYvg)| [QP 3](qp/qp3.pdf) due Sept 26 |
 7|R 9-21 | even more evaluation | | [notes](lns/lec7.pdf)|   | [vid](https://youtu.be/ZcXQFJztZtU)| | 
 8|T 9-26 | risk minimization |  --- | [notes](lns/lec8.pdf)|  | [vid](https://youtu.be/eqzX-Yr3xrA)| [QP 4](qp/qp4.pdf) due Oct 3 |
-9|R 9-28 | KNN and Linear Classifiers | [SP4](sp/SP4_questions.pdf)| [notes](lns/lec9.pdf)| [.ipynb](code/lab5_knn_class.ipynb)| [vid](https://youtu.be/5qPIfckLLj8)|| 
+9|R 9-28 | KNN and Linear Classifiers | [SP4](sp/SP4_questions.pdf)| [notes](lns/lec9.pdf)| [.ipynb](code/lab5_knn_class.ipynb)| [vid](https://youtu.be/5qPIfckLLj8)| | 
 10 |T 10-3 | LDA and QDA | --- | [notes](lns/lec10.pdf)| [.ipynb](code/lab6_lda.ipynb) [.ipynb](code/lab7_qda.ipynb) | [vid](https://youtu.be/7DwcXraXVF4)| [QP 5](qp/qp5.pdf) due Oct 10 | 
-11|R 10-5 | Logistic Regression | [SP5](sp/SP5_questions.pdf) | [notes](lns/lec11.pdf)| [.ipynb](code/lab8_logistic.ipynb) | [vid](https://youtu.be/-e_JkXdfpLo) |   | 
-12|T 10-10 | variable Selection |  | [notes](lns/lec12.pdf)| [.ipynb](code/lab9_selection.ipynb)  | [vid](https://youtu.be/lIWVaTzeTlA)| [QP 6](qp/qp6.pdf) due Oct 17 | 
+11|R 10-5 | Logistic Regression | [SP5](sp/SP5_questions.pdf) | [notes](lns/lec11.pdf)| [.ipynb](code/lab8_logistic.ipynb) | [vid](https://youtu.be/-e_JkXdfpLo) |    | 
+12|T 10-10 | variable Selection |  | [notes](lns/lec12.pdf)| [.ipynb](code/lab9_selection.ipynb)  | [vid](https://youtu.be/lIWVaTzeTlA)| [QP 6](qp/qp6.pdf) due Oct 17| 
 . |R 10-12 | fall break | 
 13 | T 10-17 | ridge regression |  | [notes](lns/lec13.pdf)|   [ipynb](code/lab10_ridge.ipynb)| [vid](https://youtu.be/RNjRw5-Mxe0)| --- | 
 .| R 10-19 | midterm | ||||
@@ -30,7 +30,7 @@ No. | date | topics | suggested problems (SP) | notes | code | videos | quiz pro
 . | T 11-7 | Election Day (no classes) | 
 18|R 11-9 | k-means | [SP7](sp/SP7_questions.pdf) | [notes](lns/lec18.pdf)| [.ipynb](code/lab17_kmeans.ipynb)  | [vid](https://youtu.be/Umt59tFW7TQ)| [QP9](qp/qp9.pdf) due Nov 16 | 
 19|T 11-14 | hierarchical clustering | --- | [notes](lns/lec19.pdf)| [.ipynb](code/lab18_hierarchical.ipynb) | [vid](https://youtu.be/MYksRK_AKto)|  --- | 
-20|R 11-16 | trees and random forests | [SP8](sp/SP8_questions.pdf) | [notes](lns/lec20.pdf)|                                  | [vid](https://youtu.be/P8o3wNKeJY8)| [QP10](qp/qp10.pdf) due Nov 30| 
+20|R 11-16 | trees and random forests | [SP8](sp/SP8_questions.pdf) | [notes](lns/lec20.pdf)| [.ipynb](code/lab19_trees.ipynb) | [vid](https://youtu.be/P8o3wNKeJY8)| [QP10](qp/qp10.pdf) due Nov 30| 
 21|T 11-21 | thanksgiving treat | --- | [notes](lns/lec21.pdf)| [.ipynb](code/lab20_rf.ipynb) |[vid]() |   | 
 . | R 11-23 | Thanksgiving | 
 22|T 11-28 | boosting | --- | [notes](lns/lec22.pdf)| [.ipynb](code/lab19_trees.ipynb)  | [vid]() |  | 
