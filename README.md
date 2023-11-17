@@ -31,7 +31,7 @@ No. | date | topics | suggested problems (SP) | notes | code | videos | quiz pro
 18|R 11-9 | k-means | [SP7](sp/SP7_questions.pdf) | [notes](lns/lec18.pdf)| [.ipynb](code/lab17_kmeans.ipynb)  | [vid](https://youtu.be/Umt59tFW7TQ)| [QP9](qp/qp9.pdf) due Nov 16 | 
 19|T 11-14 | hierarchical clustering | --- | [notes](lns/lec19.pdf)| [.ipynb](code/lab18_hierarchical.ipynb) | [vid](https://youtu.be/MYksRK_AKto)|  --- | 
 20|R 11-16 | trees and random forests | [SP8](sp/SP8_questions.pdf) | [notes](lns/lec20.pdf)| [.ipynb](code/lab19_trees.ipynb) | [vid](https://youtu.be/P8o3wNKeJY8)| [QP10](qp/qp10.pdf) due Nov 30| 
-21|T 11-21 | thanksgiving treat | --- | [notes](lns/lec21.pdf)| [.ipynb](code/lab20_rf.ipynb) |[vid]() |   | 
+21|T 11-21 | thanksgiving treat | --- | [notes](lns/lec21.pdf)| |[vid](https://youtu.be/WY5DaFgjUww) |   | 
 . | R 11-23 | Thanksgiving | 
 22|T 11-28 | boosting | --- | [notes](lns/lec22.pdf)| [.ipynb](code/lab19_trees.ipynb)  | [vid]() |  | 
 23|R 11-30 | more boosting | --- |[notes](lns/lec23.pdf)| [.ipynb](code/lab20_rf.ipynb) | [vid]() |  | 
