@@ -33,7 +33,7 @@ No. | date | topics | suggested problems (SP) | notes | code | videos | quiz pro
 20|R 11-16 | trees and random forests | [SP8](sp/SP8_questions.pdf) | [notes](lns/lec20.pdf)| [.ipynb](code/lab19_trees.ipynb) | [vid](https://youtu.be/P8o3wNKeJY8)| [QP10](qp/qp10.pdf) due Nov 30| 
 21|T 11-21 | thanksgiving treat | --- | [notes](lns/lec21.pdf)| |[vid](https://youtu.be/WY5DaFgjUww) |   | 
 . | R 11-23 | Thanksgiving | 
-22|T 11-28 | boosting | --- | [notes](lns/lec22.pdf)| [.ipynb](code/lab19_trees.ipynb)  | [vid]() |  | 
+22|T 11-28 | boosting | --- | [notes](lns/lec22.pdf)| [.ipynb](code/lab20_rf.ipynb)  | [vid](https://youtu.be/c5CE9ikNiR4) |  | 
 23|R 11-30 | more boosting | --- |[notes](lns/lec23.pdf)| [.ipynb](code/lab20_rf.ipynb) | [vid]() |  | 
 24|T 12-5 | NNs | --- | [notes](lns/lec24.pdf)| |  [vid]() | --- | 
 25|T 12-R | more NNs | --- | [notes](lns/lec25.pdf)|[.ipynb](code/lab22_kr.ipynb) |  [vid]() | --- | 
