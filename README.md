@@ -34,7 +34,7 @@ No. | date | topics | suggested problems (SP) | notes | code | videos | quiz pro
 21|T 11-21 | thanksgiving treat | --- | [notes](lns/lec21.pdf)| |[vid](https://youtu.be/WY5DaFgjUww) |   | 
 . | R 11-23 | Thanksgiving | 
 22|T 11-28 | boosting | --- | [notes](lns/lec22.pdf)| [.ipynb](code/lab20_rf.ipynb)  | [vid](https://youtu.be/c5CE9ikNiR4) |  | 
-23|R 11-30 | more boosting | --- |[notes](lns/lec23.pdf)| [.ipynb](code/lab20_rf.ipynb) | [vid]() |  | 
+23|R 11-30 | more boosting | --- |[notes](lns/lec23.pdf)| [.ipynb](code/lab21_boosting.ipynb) | [vid](https://youtu.be/mhMj2nKJLwI) |  | 
 24|T 12-5 | NNs | --- | [notes](lns/lec24.pdf)| |  [vid]() | --- | 
 25|T 12-R | more NNs | --- | [notes](lns/lec25.pdf)|[.ipynb](code/lab22_kr.ipynb) |  [vid]() | --- | 
 
